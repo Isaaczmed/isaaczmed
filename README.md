@@ -1,6 +1,14 @@
 # Isaac Zaniboni de Medeiros
 ## hello-world 👋
 
+## Sobre-mim:
+
+- 🔭 Trabalhando como Jovem Aprendiz na Sodimac
+- 🌱 Estudando Engenharia de Software na UNINTER
+- 📫 Contato: (16)98830-1179
+- 😄 Pronomes: Ele/Dele
+- 🎉 Aniversário: 20/03/2006
+
 ## Estatísticas:
 
 <div>
