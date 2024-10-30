@@ -18,7 +18,7 @@
 
 ## Contribuições:
 
-![Snake animation](https://github.com/isaaczmed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/isaaczmed/isaaczmed/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contatos:
