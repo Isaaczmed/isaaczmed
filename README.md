@@ -3,10 +3,10 @@
 
 ## Sobre-mim:
 
-- 🔭 Trabalhando como Jovem Aprendiz na Sodimac
-- 🌱 Estudando Engenharia de Software na UNINTER
 - 🎉 Aniversário: 20/03/2006
 - 📫 Contato: (16)98830-1179
+- 🔭 Trabalhando como Jovem Aprendiz na Sodimac
+- 🌱 Estudando Engenharia de Software na UNINTER
 
 ## Estatísticas:
 
