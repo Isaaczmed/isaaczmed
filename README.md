@@ -1,7 +1,7 @@
 # Isaac Zaniboni de Medeiros
 ## hello-world 👋
 
-## 📌 Sobre-mim:
+## 📌 Sobre-mim
 
 - 🎉 Aniversário: 20/03/2006
 - 📫 Contato: (16)98830-1179
@@ -19,7 +19,7 @@
 <a href="https://github.com/Isaaczmed" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 </div>
 
-## 📊 Estatísticas:
+## 📊 Estatísticas
 
 <div>
 <a href="https://github.com/Isaaczmed">
@@ -28,7 +28,7 @@
 </div>
 
 
-## 📫 Contatos:
+## 📫 Contatos
 
 <div>
 <a href="https://www.linkedin.com/in/isaac-zaniboni/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
