@@ -5,7 +5,7 @@
 
 - 🎉 Aniversário: 20/03/2006
 - 📫 Contato: (16)98830-1179
-- 🔭 Trabalhando como Jovem Aprendiz na Sodimac
+- 🔭 Trabalhando como Analista de Suporte Júnior na Smar APD 
 - 🌱 Estudando Engenharia de Software na UNINTER
 
 ## 🚀 Tecnologias 
